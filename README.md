@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Hami1ton/Hami1ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hami1ton&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+<p align="left"> 
+  <img alt="Top Langs by Repo" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hami1ton&theme=tokyonight" />
+  <img alt="Top Langs by Commits" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hami1ton&theme=tokyonight" />
+</p>
+
+
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hami1ton&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
